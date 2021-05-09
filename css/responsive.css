@@ -424,7 +424,7 @@
 
 	.slides-container div,
 	.home{
-		background-size:no-repeat 480px;
+		background-size:auto 480px;
 	}
 
 	#home .v2 .typographic{
